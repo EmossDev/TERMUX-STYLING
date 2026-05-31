@@ -1,6 +1,6 @@
 clear
 #neofetch
-cowsay -f eyes2 UmuT_KaRa |lolcat
+cowsay -f eyes2 EmossDev |lolcat
 echo
 echo
 printf "\e[33m"
