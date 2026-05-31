@@ -10,21 +10,21 @@ printf "
 \e[0m
 \e[31m[\e[97m1\e[31m]\e[97m ────────── \e[32mNEOFETCH\e[97m
 
-\e[31m[\e[97m2\e[31m]\e[97m ────────── \e[32mSKULL 1\e[97m
+\e[31m[\e[97m2\e[31m]\e[97m ────────── \e[32mKURUKAFA 1\e[97m
 
-\e[31m[\e[97m3\e[31m]\e[97m ────────── \e[32mSKULL 2\e[97m
+\e[31m[\e[97m3\e[31m]\e[97m ────────── \e[32mKURUKAFA 2\e[97m
 
-\e[31m[\e[97m4\e[31m]\e[97m ────────── \e[32mSKULL EYES \e[97m
+\e[31m[\e[97m4\e[31m]\e[97m ────────── \e[32mKURUKAFA GÖZLERİ \e[97m
 
-\e[31m[\e[97m5\e[31m]\e[97m ────────── \e[32mEYES\e[97m
+\e[31m[\e[97m5\e[31m]\e[97m ────────── \e[32mGÖZLER\e[97m
 
-\e[31m[\e[97m6\e[31m]\e[97m ────────── \e[32mDRAGON\e[97m
+\e[31m[\e[97m6\e[31m]\e[97m ────────── \e[32mEJDERHA\e[97m
 
-\e[31m[\e[97m7\e[31m]\e[97m ────────── \e[32mMONSTER\e[97m
+\e[31m[\e[97m7\e[31m]\e[97m ────────── \e[32mCANAVAR\e[97m
 
-\e[31m[\e[97m8\e[31m]\e[97m ────────── \e[32mALİEN\e[97m
+\e[31m[\e[97m8\e[31m]\e[97m ────────── \e[32mUZAYLI\e[97m
 
-\e[31m[\e[97m9\e[31m]\e[97m ────────── \e[32mSNAKE\e[97m
+\e[31m[\e[97m9\e[31m]\e[97m ────────── \e[32mYILAN\e[97m
 
 
 \e[31m
